@@ -1,0 +1,14 @@
+.image {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
+div h1 {
+    background: black;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+    height: 80px;
+}
